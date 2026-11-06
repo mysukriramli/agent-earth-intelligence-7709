@@ -1,0 +1,15 @@
+{
+  "name": "agent-earth-intelligence-7709",
+  "version": "1.0.0",
+  "description": "Provides deterministic real-world environmental and geospatial intelligence for autonomous agents using open data.",
+  "tools": [
+    {
+      "name": "service_status",
+      "description": "Get current status and computations from this autonomous service",
+      "inputSchema": {
+        "type": "object",
+        "properties": {}
+      }
+    }
+  ]
+}
